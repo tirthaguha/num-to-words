@@ -1,5 +1,5 @@
 {
-  "name": "num-to-words",
+  "name": "num-to-words-converter",
   "version": "1.0.0-beta-01",
   "description": "Library to convert numbers to english words",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tirthaguha/num-to-words.git"
+    "url": "git+https://github.com/tirthaguha/num-to-words-converter.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tirthaguha/num-to-words/issues"
+    "url": "https://github.com/tirthaguha/num-to-words-converter/issues"
   },
-  "homepage": "https://github.com/tirthaguha/num-to-words#readme"
+  "homepage": "https://github.com/tirthaguha/num-to-words-converter#readme"
 }
