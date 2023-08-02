@@ -52,9 +52,6 @@ const zeroToNinetyNine = (input) => {
 
 const formatNumbers = (numberStr, position) => {
   if (numberStr !== "") {
-    // return numberStr > 1
-    //   ? numberStr + " " + position
-    //   : numberStr + " " + position + "s";
     return numberStr + " " + position;
   }
   return "";
